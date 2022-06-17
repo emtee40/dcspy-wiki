@@ -1,4 +1,4 @@
 Welcome to the dcspy wiki!
 
-[Installation](installation)
-[Upgrade](upgrade)
+[Installation](installation)  
+[Upgrade](upgrade)  
