@@ -23,7 +23,7 @@ Apache EUFD is to big to fit small, so is spited into 3 Modes.
 ![AH64DBLKII_49](https://user-images.githubusercontent.com/475312/174405106-68364682-e1e2-4977-b92e-e558cf97d133.png)  
 * To enter this mode press **Button4** 
 * In this mode display warnings, cautions, and advisories, 
-* **Button1** is used to scroll down
+* **Button1** is used to cycle thru pages of warnings
 * Press **Button4** again to back to IDM Mode
 
 ### Summary of buttons and EUFD Modes:
