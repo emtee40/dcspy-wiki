@@ -1,5 +1,5 @@
 Welcome to the dcspy wiki!
 
-[Installation](installation)  
-[Upgrade](upgrade)  
+[Installation](installation) - Requirements and installation steps  
+[Upgrade](upgrade) - how to upgrade DCSpy  
 [Usage](usage)  
