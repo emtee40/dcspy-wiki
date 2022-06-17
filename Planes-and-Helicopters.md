@@ -26,7 +26,7 @@ Apache EUFD is to big to fit small, so is spited into 3 Modes.
 * **Button1** is used to cycle thru pages of warnings
 * Press **Button4** again to back to IDM Mode
 
-### Summary of buttons and EUFD Modes:
+### Button Map of EUFD Modes:
 | Mode | Button1  | Button2  | Button3      | Button4  |
 |------|----------|----------|--------------|----------|
 | IDM  | IDM Down | RTS Down | P / PRE Mode | WCA Mode |
