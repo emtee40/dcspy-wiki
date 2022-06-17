@@ -1,4 +1,4 @@
-Welcome to the dcspy wiki!
+## Table of Contents
 
 [Installation](installation) - Requirements and installation steps  
 [Upgrade](upgrade) - how to upgrade DCSpy  
