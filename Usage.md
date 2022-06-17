@@ -13,9 +13,18 @@
 
 ## Mono vs. Color
 DCSpy do not use full potential of G19, which support full RGBA, 8-lines LCD with 7 programmable buttons. In contrast to 
+mono devices (like G13, G15 and G510), which support mono, 4-lines LCD with only 4 buttons. Right now DCSpy use only top 
+4 lines of LCD and 4 buttons. Way in which actions assign to button for G13 (4 buttons form left to right) are mapped to G19 looks:
+* G13 1st button -> G19 left button
+* G13 2nd button -> G19 right button
+* G13 3rd button -> G19 down button
+* G13 4th button -> G19 up button
+
+Maybe in future when settings via config file will be added, then it allowed usage all 7 buttons in G19. But right now 
+actions for supported airplanes are hardcoded right now.
 
 ## Configuration
-DCSpy can be configured via `config.yaml` file. It is located in Python's installation directory (e.g. `c:\python310\dcspy_data\config.yaml`). 
+DCSpy can be configured via `config.yaml` file. It is located in Python's installation directory (e.g. `c:\python310\lib\site-packages\dcspy\config.yaml`). 
 This is simple file, most users do not need to touch it at all. However, it can be easily edited directly from GUI. Configuring DCSpy enable some powerful features of DCSpy.  
 Please check **Config** button in GUI. Right now there are available options:  
 * **dcsbios** - location of DCS-BIOS folder inside user's `Saved Games\DCS.openbeta`.  
@@ -32,12 +41,3 @@ Please check **Config** button in GUI. Right now there are available options:
 * **font_color_xs** - size of extra small font for color devices
 * **font_color_s** - size of small font for color devices
 * **font_color_l** - size of large font for color devices
-mono devices (like G13, G15 and G510), which support mono, 4-lines LCD with only 4 buttons. Right now DCSpy use only top 
-4 lines of LCD and 4 buttons. Way in which actions assign to button for G13 (4 buttons form left to right) are mapped to G19 looks:
-* G13 1st button -> G19 left button
-* G13 2nd button -> G19 right button
-* G13 3rd button -> G19 down button
-* G13 4th button -> G19 up button
-
-Maybe in future when settings via config file will be added, then it allowed usage all 7 buttons in G19. But right now 
-actions for supported airplanes are hardcoded right now.
