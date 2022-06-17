@@ -1,0 +1,19 @@
+## FAQ
+1. Why in [F-16C DED](https://i.imgur.com/Hr0kmFV.jpg) instead of triangle up and down arrow I see strange character.   
+   I didn't find good alternative, so I use unicode character [2666](https://www.fileformat.info/info/unicode/char/2195/index.htm) (I consider [2195](https://www.fileformat.info/info/unicode/char/2195/index.htm) as well, which do not render very well).
+2. I got error: `'pip' is not recognized as an internal or external command, operable program or batch file.`  
+   Probably during installation of Python `pip` and/or `Add Python to environment variables` were not selected. Uninstall Python and install again with correct options, or consider add Python installation directory to PATH environment variable.
+3. Python 3.6 not supported due to 3 known vulnerabilities in Pillow library (version 9.0.0 drop support for Python 3.6)
+
+| Name   | Version | ID            | Fix Versions |
+|--------| --------|---------------|--------------|
+| pillow | 8.4.0   | PYSEC-2022-10 | 9.0.0        |
+| pillow | 8.4.0   | PYSEC-2022-9  | 9.0.0        |
+| pillow | 8.4.0   | PYSEC-2022-8  | 9.0.0        |
+
+## New ideas
+I have lots of plans and new ideas how to improve it internally and form user's perspective, but don't hesitate to contact me. Maybe it will motivate me to implement some new stuff. Please open issue if you find bug or have any crazy idea.  
+You are welcome [dcspy Discord](https://discord.gg/SP5Yjx3) server. 
+
+## Contributing
+You want contribute, perfect see: [contributing](./CONTRIBUTING.md) guide.
