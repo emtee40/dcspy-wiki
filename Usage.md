@@ -13,6 +13,25 @@
 
 ## Mono vs. Color
 DCSpy do not use full potential of G19, which support full RGBA, 8-lines LCD with 7 programmable buttons. In contrast to 
+
+## Configuration
+DCSpy can be configured via `config.yaml` file. It is located in Python's installation directory (e.g. `c:\python310\dcspy_data\config.yaml`). 
+This is simple file, most users do not need to touch it at all. However, it can be easily edited directly from GUI. Configuring DCSpy enable some powerful features of DCSpy.  
+Please check **Config** button in GUI. Right now there are available options:  
+* **dcsbios** - location of DCS-BIOS folder inside user's `Saved Games\DCS.openbeta`.  
+  Set this parameter to correct value allows user check and update DCS-BIOS to the latest release.  
+  *example value*: `D:\Users\emcek\Saved Games\DCS.openbeta\Scripts\DCS-BIOS`
+* **keyboard** - default Logitech keyboard value, last used value is saved automatically  
+  *possible values*: `G19`, `G510`, `G15 v1/v2`, `G13`
+* **show_gui** - it allows showing or hiding GUI during start of DCSpy.  
+  *possible values*: `true` or `false`
+* **font_name** - file name with TrueType font use in all devices
+* **font_mono_xs** - size of extra small font for mono devices
+* **font_mono_s** - size of small font for mono devices
+* **font_mono_l** - size of large font for mono devices
+* **font_color_xs** - size of extra small font for color devices
+* **font_color_s** - size of small font for color devices
+* **font_color_l** - size of large font for color devices
 mono devices (like G13, G15 and G510), which support mono, 4-lines LCD with only 4 buttons. Right now DCSpy use only top 
 4 lines of LCD and 4 buttons. Way in which actions assign to button for G13 (4 buttons form left to right) are mapped to G19 looks:
 * G13 1st button -> G19 left button
