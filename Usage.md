@@ -12,13 +12,23 @@
 **Note:** If you upgrade DCSpy before version 1.7.0 `dcspy.ico` and `config.yaml` were in data directory like `c:\python310\dcspy_data\` but location is deperched in Python if you still have it, you can safely delete it
 
 ## Mono vs. Color
-DCSpy do not use full potential of G19, which support full RGBA, 8-lines LCD with 7 programmable buttons. In contrast to 
-mono devices (like G13, G15 and G510), which support mono, 4-lines LCD with only 4 buttons. Right now DCSpy use only top 
-4 lines of LCD and 4 buttons. Way in which actions assign to button for G13 (4 buttons form left to right) are mapped to G19 looks:
+DCSpy do not use full potential of G19, which support full RGBA, 8-lines LCD with 7 programmable buttons.  
+In contrast to mono devices (like G13, G15 and G510), which support mono, 4-lines LCD with only 4 buttons.  
+Right now DCSpy use only top 4 lines of LCD and 4 buttons. 
+Way in which actions assign to button for G13 (4 buttons form left to right) are mapped to G19 looks:  
 * G13 1st button -> G19 left button
 * G13 2nd button -> G19 right button
 * G13 3rd button -> G19 down button
 * G13 4th button -> G19 up button
+
+### G13, G15, G510 - Mono
+mono, 4-lines LCD with only 4 buttons  
+![image](https://user-images.githubusercontent.com/475312/174407168-7db23a3f-3493-4a35-b898-ebb3a3ff839f.png)
+![image](https://user-images.githubusercontent.com/475312/174407442-ed9c7d85-057d-4572-8316-3578721e4dab.png)
+![image](https://user-images.githubusercontent.com/475312/174407530-b010691c-0895-4786-ad4e-8f98deeebb02.png)
+### G19 - Color
+full RGBA, 8-lines LCD with 7 buttons  
+![image](https://user-images.githubusercontent.com/475312/174407299-d07e7ba5-d837-4af4-884a-7e20a48d676a.png)
 
 Maybe in future when settings via config file will be added, then it allowed usage all 7 buttons in G19. But right now 
 actions for supported airplanes are hardcoded right now.
