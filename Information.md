@@ -15,5 +15,10 @@
 I have lots of plans and new ideas how to improve it internally and form user's perspective, but don't hesitate to contact me. Maybe it will motivate me to implement some new stuff. Please open issue if you find bug or have any crazy idea.  
 You are welcome [dcspy Discord](https://discord.gg/SP5Yjx3) server. 
 
+## Credits
+This project has been heavily inspired by [specelUFC](https://github.com/specel/specelUFC), and I want to thank **specel**, the author of that project for his work and the inspiring ideas. This software uses:
+* [DCS-BIOS](https://github.com/DCSFlightpanels/dcs-bios) fork by DCSFlightpanels for exporting data from DCS to local network
+* [jboecker's parser](https://github.com/jboecker/python-dcs-bios-example) to read data stream from DCS-BIOS
+
 ## Contributing
-You want contribute, perfect see: [contributing](./CONTRIBUTING.md) guide.
+You want contribute, perfect see: [contributing](https://github.com/emcek/dcspy/blob/master/CONTRIBUTING.md) guide.
