@@ -42,7 +42,9 @@ Please check **Config** button in GUI. Right now there are available options:
   *example value*: `D:\Users\emcek\Saved Games\DCS.openbeta\Scripts\DCS-BIOS`
 * **keyboard** - default Logitech keyboard value, last used value is saved automatically  
   *possible values*: `G19`, `G510`, `G15 v1/v2`, `G13`
-* **show_gui** - it allows showing or hiding GUI during start of DCSpy.  
+* **show_gui** - it allows showing or hiding GUI during start of DCSpy. When set to `false` DCSpy start automatically.  
+  *possible values*: `true` or `false`
+* **autostart** - when set to `true` DCSpy start automatically.  
   *possible values*: `true` or `false`
 * **font_name** - file name with TrueType font use in all devices
 * **font_mono_xs** - size of extra small font for mono devices
