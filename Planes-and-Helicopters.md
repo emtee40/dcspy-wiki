@@ -34,10 +34,22 @@ Apache EUFD is to big to fit small, so is spited into 3 Modes.
 | PRE  | WCA Dwon | RTS Down | IDM Mode     | E        |
 
 ## F/A-18C Hornet
-* Button1 - UFC COMM1 channel select decrease
-* Button2 - UFC COMM1 channel select increase
-* Button3 - UFC COMM2 channel select decrease
-* Button4 - UFC COMM2 channel select increase
+
+### Mono
+* **Button1** - UFC COMM1 channel select decrease
+* **Button2** - UFC COMM1 channel select increase
+* **Button3** - UFC COMM2 channel select decrease
+* **Button4** - UFC COMM2 channel select increase
+
+### Color
+* **Left** - UFC COMM1 channel select decrease
+* **Right** - UFC COMM1 channel select increase
+* **Down**- UFC COMM2 channel select decrease
+* **Up** - UFC COMM2 channel select increase
+* **Menu** - Integrated Fuel/Engine Indicator (IFEI) Up
+* **Cancel** - Integrated Fuel/Engine Indicator (IFEI) Down
+* **Ok** - Attitude Selector Switch, INS/AUTO/STBY  
+Note: Push **Menu** and **Cancel** toggle cockpit button down, push it again toggle button up.
 
 ## Ka-50 Black Shark
 * Button1 - PVI waypoints button
