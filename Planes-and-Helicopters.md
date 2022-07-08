@@ -5,33 +5,33 @@ Apache EUFD is to big to fit small, so is spited into 3 Modes.
 ![AH64DBLKII_15](https://user-images.githubusercontent.com/475312/174402823-330a0fcc-ee56-4591-93e9-650e8cb9f975.png)
 * This is default mode. 
 * In this mode you can see squeezed radios frequencies (from Radio Area). 
-* **Button1** select radio for IDM  and **Button2** select radio for RTS - buttons scroll down left arrows and markers
+* **Button1** / **Left** select radio for IDM  and **Button2** / **Right** select radio for RTS - buttons scroll down left arrows and markers
 
 ### PRE Mode
 ![image](https://user-images.githubusercontent.com/475312/174403195-22e5e4c3-ef0b-4046-93e2-0b494d9b1e5f.png)  
 ![AH64DBLKII_75](https://user-images.githubusercontent.com/475312/174403242-5da96391-e8ca-4b35-821d-0952655b7aef.png)  
 * To enter this mode press **P** Preset - **Buton3**
 * In this mode you can see the preset menu for the selected radio
-* **Button1** is used to scroll down
-* **Button2** select radio for RTS
-* **Button4** act as **E** Enter you can choose selected preset
-* Press **Button3** again to back to IDM Mode
+* **Button1** / **Left** is used to scroll down
+* **Button2** / **Right** select radio for RTS
+* **Button4** / **Up** act as **E** Enter you can choose selected preset
+* Press **Button3** / **Down** again to back to IDM Mode
 
 ### WCA Mode
 ![image](https://user-images.githubusercontent.com/475312/174404777-e95bb92b-1961-4322-af17-54f5e5b3335c.png)  
 ![AH64DBLKII_38](https://user-images.githubusercontent.com/475312/174404833-d3483c00-ebdb-40b6-92de-9b85f11ce601.png)
 ![AH64DBLKII_49](https://user-images.githubusercontent.com/475312/174405106-68364682-e1e2-4977-b92e-e558cf97d133.png)  
-* To enter this mode press **Button4** 
+* To enter this mode press **Button4** / **Up**
 * In this mode display warnings, cautions, and advisories, 
-* **Button1** is used to cycle thru pages of warnings
-* Press **Button4** again to back to IDM Mode
+* **Button1** / **Left** is used to cycle thru pages of warnings
+* Press **Button4** / **Up** again to back to IDM Mode
 
 ### Button Map of EUFD Modes:
-| Mode | Button1  | Button2  | Button3      | Button4  |
-|------|----------|----------|--------------|----------|
-| IDM  | IDM Down | RTS Down | P / PRE Mode | WCA Mode |
-| WCA  | WCA Dwon |          |              | IDM Mode |
-| PRE  | WCA Dwon | RTS Down | IDM Mode     | E        |
+| Mode | B1 / Left | B2 / Right | B3 / Down    | B4 / Up  |
+|------|-----------|------------|--------------|----------|
+| IDM  | IDM Down  |  RTS Down  | P / PRE Mode | WCA Mode |
+| WCA  | WCA Dwon  |            |              | IDM Mode |
+| PRE  | WCA Dwon  |  RTS Down  | IDM Mode     | E        |
 
 ## F/A-18C Hornet
 
