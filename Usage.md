@@ -37,6 +37,7 @@ actions for supported airplanes are hardcoded right now.
 DCSpy can be configured via `config.yaml` file. It is located in Python's installation directory (e.g. `c:\python310\lib\site-packages\dcspy\config.yaml`). 
 This is simple file, most users do not need to touch it at all. However, it can be easily edited directly from GUI. Configuring DCSpy enable some powerful features of DCSpy.  
 Please check **Config** button in GUI. Right now there are available options:  
+* **dcs** - installation directory of DCS. By default it is set to `C:\Program Files\Eagle Dynamics\DCS World OpenBeta`
 * **dcsbios** - location of DCS-BIOS folder inside user's `Saved Games\DCS.openbeta`.  
   Set this parameter to correct value allows user check and update DCS-BIOS to the latest release.  
   *example value*: `D:\Users\emcek\Saved Games\DCS.openbeta\Scripts\DCS-BIOS`
