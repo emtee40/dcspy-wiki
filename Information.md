@@ -11,6 +11,12 @@
 | pillow | 8.4.0   | PYSEC-2022-9  | 9.0.0        |
 | pillow | 8.4.0   | PYSEC-2022-8  | 9.0.0        |
 
+4. DCSpy force using Python Imaging Library - Pillow 9.3.0 due to known vulnerability:
+
+| Name   | Version | ID           | Fix Versions |
+|--------|---------|--------------|--------------|
+| pillow | 9.2.0   | OSV-2022-715 | 9.3.0        |
+
 ## New ideas
 I have lots of plans and new ideas how to improve it internally and form user's perspective, but don't hesitate to contact me. Maybe it will motivate me to implement some new stuff. Please open issue if you find bug or have any crazy idea.  
 You are welcome [dcspy Discord](https://discord.gg/SP5Yjx3) server. 
