@@ -1,5 +1,5 @@
 ## Requirements
-* [Python 3.10](https://www.python.org/downloads/) but 3.7+ (with tcl/tk support, see installation) should be fine, please choose **Windows x86-64** version, file should be `python-3.10.5-amd64.exe`.  
+* [Python 3.11](https://www.python.org/downloads/) but 3.7+ (with tcl/tk support, see installation) should be fine, please choose **Windows x86-64** version, file should be `python-3.11.0-amd64.exe`.  
 * [Logitech Gaming Software 9.04.49](https://support.logitech.com/software/lgs)
 * [DCS-BIOS 0.7.45](https://github.com/DCSFlightpanels/dcs-bios/releases/latest) (or newer)
 
@@ -16,7 +16,7 @@
    * Advanced Options:
      * Associate files with Python (requires the py launcher)
      * Add Python to environment variables
-     * Customize install location: **C:\Python310** or **C:\Python**
+     * Customize install location: **C:\Python311** or **C:\Python**
 3. Logitech Gaming Software installation is straightforward.
 4. DCS-BIOS
    * You can skip for now and install DCS-BIOS directly from Dcspy (Config -> Check DCS-BIOS). Check **dcsbios** config flag before, see [Configuration](#configuration).  
