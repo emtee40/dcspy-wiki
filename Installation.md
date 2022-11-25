@@ -3,8 +3,8 @@
 * [Logitech Gaming Software 9.04.49](https://support.logitech.com/software/lgs)
 * [DCS-BIOS 0.7.45](https://github.com/DCSFlightpanels/dcs-bios/releases/latest) (or newer)
 
-**Notes:**
-* You do not need Logitech LCD SDK ver. 8.57.148 probably extract to `C:\Program Files\Logitech Gaming Software\LCDSDK_8.57.148`. Since DCSpy version 1.6.0 use built-in SDK in LGS (Logitech Gaming Software), you can safely remove from your system.
+**Note if you upgrade from older than 1.6.0:**
+* Older version of DCSpy <1.6.0 required Logitech LCD SDK ver. 8.57.148 (`C:\Program Files\Logitech Gaming Software\LCDSDK_8.57.148`). Since DCSpy version 1.6.0 use built-in SDK in LGS (Logitech Gaming Software), you can safely remove/delate from your system.
 
 ## Installation
 1. Install all requirements
