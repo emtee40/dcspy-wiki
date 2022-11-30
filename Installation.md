@@ -1,7 +1,7 @@
 ## Requirements
 * [Python 3.11](https://www.python.org/downloads/) but 3.7+ (with tcl/tk support, see installation) should be fine, please choose **Windows x86-64** version, file should be `python-3.11.0-amd64.exe`.  
 * [Logitech Gaming Software 9.04.49](https://support.logitech.com/software/lgs)
-* [DCS-BIOS 0.7.45](https://github.com/DCSFlightpanels/dcs-bios/releases/latest) (or newer)
+* [DCS-BIOS 0.7.46](https://github.com/DCSFlightpanels/dcs-bios/releases/latest) (or newer)
 
 **Note if you upgrade from 1.5.1:**
 * Older version of DCSpy required Logitech LCD SDK ver. 8.57.148 (`C:\Program Files\Logitech Gaming Software\LCDSDK_8.57.148`). Since DCSpy 1.6.0 use built-in SDK in LGS (Logitech Gaming Software), you can safely remove/delate from your system.
