@@ -31,3 +31,6 @@ or download manually wheel file from [releases](https://github.com/emcek/dcspy/r
 pip install dcspy-1.7.4-py3-none-any.whl
 ```
 **Note:** If you got `pip is not recognized as an internal or external command, operable program or batch file.` error, see [FAQ](Information#faq)
+
+
+**Next step:** [Usage](https://github.com/emcek/dcspy/wiki/Usage)
