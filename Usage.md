@@ -35,18 +35,25 @@ Maybe in future when settings via config file will be added, then it allowed usa
 actions for supported airplanes are hardcoded right now.
 
 ## Configuration
-DCSpy can be configured via `config.yaml` file. It is located in Python's installation directory (e.g. `c:\python311\lib\site-packages\dcspy\config.yaml`). 
-This is simple file, most users do not need to touch it at all. However, it can be easily edited directly from GUI. Configuring DCSpy enable some powerful features of DCSpy.  
-Please check **Config** button in GUI. Right now there are available options:  
+All settings can be configured directly via GUI. However,  more advanced users can change configuration file `config.yaml` file. It is located in Python's installation directory (e.g. `c:\python311\lib\site-packages\dcspy\config.yaml`). 
+This is simple file, most users do not need to touch it at all. Configuring DCSpy enable some powerful features of DCSpy.
+
+Description of all available options:  
 * **dcs** - installation directory of DCS. By default it is set to `C:\Program Files\Eagle Dynamics\DCS World OpenBeta`
 * **dcsbios** - location of DCS-BIOS folder inside user's `Saved Games\DCS.openbeta`.  
   Set this parameter to correct value allows user check and update DCS-BIOS to the latest release.  
   *example value*: `D:\Users\emcek\Saved Games\DCS.openbeta\Scripts\DCS-BIOS`
 * **keyboard** - default Logitech keyboard value, last used value is saved automatically  
-  *possible values*: `G19`, `G510`, `G15 v1/v2`, `G13`
+  *possible values*: `G19`, `G510`, `G15 v1`, `G15 v2`, `G13`
 * **show_gui** - it allows showing or hiding GUI during start of DCSpy. When set to `false` DCSpy start automatically.  
   *possible values*: `true` or `false`
 * **autostart** - when set to `true` DCSpy start automatically.  
+  *possible values*: `true` or `false`
+* **theme_color** - Color of widgets
+  *possible values*: green, blue, dark-blue
+* **theme_mode** - Theme mode
+  *possible values*: system, light, dark
+* **verbose** - Show more debug logs, be more verbose
   *possible values*: `true` or `false`
 * **font_name** - file name with TrueType font use in all devices
 * **font_mono_xs** - size of extra small font for mono devices
