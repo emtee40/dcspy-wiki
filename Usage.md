@@ -1,13 +1,14 @@
-## Usage
-1. Run Logitech Gaming Software (it allows updating LCD)
+## Starting
+1. Run Logitech Gaming Software (it allows accessing LCD)
 2. You can check with `pip uninstall dcspy` (**NOTE!** answer **No** to question) where dcspy was installed. Usually pip should install dcspy into your python directory: i.e.:
    * `c:\python311\lib\site-packages\dcspy-1.7.0.dist-info\*`
    * `c:\python311\lib\site-packages\dcspy\*`
    * `c:\python311\scripts\dcspy.exe`
 3. You can drag and drop `dcspy.exe` to desktop and make shortcut (with custom icon, you can find icon in installation directory i.e. `c:\python311\lib\site-packages\dcspy\dcspy.ico`).
 4. Double-click on dcspy icon or type `dcspy.exe` from Command Prompt
-5. LCD should update with dcspy basic info, waiting to connect to DCS 
-6. Run DCS and start any mission.
+5. Click `Start`
+6. LCD should update with dcspy basic info, waiting to connect to DCS 
+7. Run DCS and start any mission. **NOTE!**: DCS can already running, before starting LGS.
 
 **Note:** If you upgrade DCSpy before version 1.7.0 `dcspy.ico` and `config.yaml` were in data directory like `c:\python311\dcspy_data\` but location is deperched in Python if you still have it, you can safely delete it
 
