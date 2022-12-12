@@ -1,6 +1,6 @@
 ### [Installation](installation)
   * [Requirements](installation#requirements)
-  * [Installation](installation#installation)steps
+  * [Installation](installation#installation) steps
 ### [Upgrade](upgrade)
   * how to [upgrade](Upgrade#upgrade) DCSpy
 ### [Usage](usage)
