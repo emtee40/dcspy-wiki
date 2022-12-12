@@ -7,4 +7,3 @@ In order to fix any issue I need some data. When you report issue I can ask you 
 4. Start **dcspy** and try reproduce the issue
 5. As soon you manage do it, click **Stop** button
 6. Collect `dcspy.log` and all aircraft PNG files
-``
