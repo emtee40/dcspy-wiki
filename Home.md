@@ -1,24 +1,16 @@
-## Table of Contents
-
-[Installation](installation)
+### [Installation](installation)
   * [Requirements](installation#requirements)
   * [Installation](installation#installation)steps
-
-[Upgrade](upgrade)
+### [Upgrade](upgrade)
   * how to [upgrade](Upgrade#upgrade) DCSpy
-
-[Usage](usage)
+### [Usage](usage)
   * [Starting](Usage#Starting)
   * [Configuration](usage#configuration)
-
-[Planes and Helicopters](planes-and-helicopters)
+### [Planes and Helicopters](planes-and-helicopters)
   * details of all supported aircrafts
-
-[Information](information)
+### [Information](information)
   * [FAQ](Information#faq)
   * [Contact](Information#new-ideas)
   * [Contributing](Information#contributing)
-
-[Report issue](report-issue)
+### [Report issue](report-issue)
   * How to collect logs for [troubleshooting](Report-issue#troubleshooting)
-
