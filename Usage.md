@@ -39,6 +39,8 @@ All settings can be configured directly via GUI. However,  more advanced users c
 This is simple file, most users do not need to touch it at all. Configuring DCSpy enable some powerful features of DCSpy.
 
 Description of all available options:  
+* **check_ver** - check for new version during start of DCSpy.  
+  *possible values*: `true` or `false`
 * **dcs** - installation directory of DCS. By default it is set to `C:\Program Files\Eagle Dynamics\DCS World OpenBeta`
 * **dcsbios** - location of DCS-BIOS folder inside user's `Saved Games\DCS.openbeta`.  
   Set this parameter to correct value allows user check and update DCS-BIOS to the latest release.  
