@@ -12,5 +12,5 @@
   * [FAQ](Information#faq)
   * [Contact](Information#new-ideas)
   * [Contributing](Information#contributing)
-### [Report issue](Report-issue)
+### [Report issue](Report-issue#report-issue)
   * How to collect logs for [troubleshooting](Report-issue#troubleshooting)
