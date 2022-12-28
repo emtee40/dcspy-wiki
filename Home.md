@@ -2,7 +2,7 @@
   * [Requirements](installation#requirements)
   * [Installation](installation#installation) steps
 ### [Upgrade](upgrade)
-  * how to [upgrade](Upgrade#upgrade) DCSpy
+  * how to [upgrade](Upgrade#upgrade) DCSpy and DCS-BIOS
 ### [Usage](usage)
   * [Starting](Usage#Starting)
   * [Configuration](usage#configuration)
