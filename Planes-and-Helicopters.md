@@ -51,7 +51,7 @@ Apache EUFD is to big to fit small, so is spited into 3 Modes.
 * **Ok** - Attitude Selector Switch, INS/AUTO/STBY  
 Note: Push **Menu** and **Cancel** toggle cockpit button down, push it again toggle button up.
 
-## Ka-50 Black Shark
+## Ka-50 Black Shark II/III
 * Button1 - PVI waypoints button
 * Button2 - PVI fix points button
 * Button3 - PVI airfield button
