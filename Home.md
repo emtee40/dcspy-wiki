@@ -6,11 +6,11 @@
 ### [Usage](usage)
   * [Starting](Usage#Starting)
   * [Configuration](usage#configuration)
-### [Planes and Helicopters](planes-and-helicopters)
+### [Planes and Helicopters](Planes-and-Helicopters)
   * details of all supported aircrafts
 ### [Information](information)
   * [FAQ](Information#faq)
   * [Contact](Information#new-ideas)
   * [Contributing](Information#contributing)
-### [Report issue](report-issue)
+### [Report issue](Report-issue)
   * How to collect logs for [troubleshooting](Report-issue#troubleshooting)
