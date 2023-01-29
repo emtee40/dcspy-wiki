@@ -66,6 +66,18 @@ Note: Push **Menu** and **Cancel** toggle cockpit button down, push it again tog
 ![m8_2](https://user-images.githubusercontent.com/475312/215277457-4bc96c0f-0dcc-4780-9ac1-9c4a8e39fc00.png)  
 ![mi8_4](https://user-images.githubusercontent.com/475312/215277462-dc473791-6499-4a12-8ef1-ae138b07f953.png)
 
+## Mi-24P Hind
+* Autopilot Channels (Yaw, Roll, Pitch and Altitude)
+* Autopilot Modes (Hover, Route and Altitude)
+* Radios: R868, R828, YADRO1I information
+
+![Mi-24_1](https://user-images.githubusercontent.com/475312/215358866-f1fa00a1-6153-4a29-9938-4791c9a480dc.png)
+![Mi-24_4](https://user-images.githubusercontent.com/475312/215358879-027c53ee-652b-4295-8f67-81932640d2f0.png)
+![Mi-24_2](https://user-images.githubusercontent.com/475312/215358870-2bbf3ce1-2d4e-469c-998c-645966693a06.png)
+![Mi-24_3](https://user-images.githubusercontent.com/475312/215358872-17082a89-156d-4281-8ad0-9571fe0f9f60.png)  
+![Mi24P_21](https://user-images.githubusercontent.com/475312/215358829-2c3713a5-ecd3-4cae-a59c-c9fdc89c1863.png)
+
+
 ## F-16C Viper
 * Button1 - IFF MASTER Knob - cycle thru OFF/STBY/LOW/NORM/EMER
 * Button2 - IFF ENABLE Switch - cycle thru M1/M3 /OFF/ M3/MS
