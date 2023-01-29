@@ -64,7 +64,7 @@ Note: Push **Menu** and **Cancel** toggle cockpit button down, push it again tog
 ![mi8_3](https://user-images.githubusercontent.com/475312/215277461-8c5f082c-9389-41a9-a962-ef79aeeaf687.png)
 ![mi8_1](https://user-images.githubusercontent.com/475312/215277460-a7b59e76-8082-426e-abeb-08a596aa2779.png)
 ![m8_2](https://user-images.githubusercontent.com/475312/215277457-4bc96c0f-0dcc-4780-9ac1-9c4a8e39fc00.png)  
-![mi8_4](https://user-images.githubusercontent.com/475312/215277462-dc473791-6499-4a12-8ef1-ae138b07f953.png)
+![hip_mono_Mi8MT](https://user-images.githubusercontent.com/475312/215359004-71675660-68f1-4739-8622-9f8b538971d5.png)
 
 ## Mi-24P Hind
 * Autopilot Channels (Yaw, Roll, Pitch and Altitude)
