@@ -4,7 +4,7 @@
    * `c:\python311\lib\site-packages\dcspy-1.7.0.dist-info\*`
    * `c:\python311\lib\site-packages\dcspy\*`
    * `c:\python311\scripts\dcspy.exe`
-3. You can drag and drop `dcspy.exe` to desktop and make shortcut (with custom icon, you can find icon in installation directory i.e. `c:\python311\lib\site-packages\dcspy\dcspy.ico`).
+3. You can drag and drop `dcspy.exe` to desktop and make shortcut (with custom icon, you can find icon in installation directory i.e. `c:\python311\lib\site-packages\dcspy\resources\dcspy.ico`).
 4. Double-click on dcspy icon or type `dcspy.exe` from Command Prompt
 5. Click `Start`
 6. LCD should update with dcspy basic info, waiting to connect to DCS 
@@ -35,7 +35,7 @@ Maybe in future when settings via config file will be added, then it allowed usa
 actions for supported airplanes are hardcoded right now.
 
 ## Configuration
-All settings can be configured directly via GUI. However,  more advanced users can change configuration file `config.yaml` file. It is located in Python's installation directory (e.g. `c:\python311\lib\site-packages\dcspy\config.yaml`). 
+All settings can be configured directly via GUI. However,  more advanced users can change configuration file `config.yaml` file. It is located in Python's installation directory (e.g. `c:\python311\lib\site-packages\dcspy\resources\config.yaml`). 
 This is simple file, most users do not need to touch it at all. Configuring DCSpy enable some powerful features of DCSpy.
 
 Description of all available options:  
@@ -57,6 +57,7 @@ Description of all available options:
   *possible values*: system, light, dark
 * **verbose** - Show more debug logs, be more verbose
   *possible values*: `true` or `false`
+* **f16_ded_font** - Special font for F-16's DED (G19 Color LCD only)
 * **font_name** - file name with TrueType font use in all devices
 * **font_mono_xs** - size of extra small font for mono devices
 * **font_mono_s** - size of small font for mono devices
