@@ -4,11 +4,14 @@
    * `c:\python311\lib\site-packages\dcspy-1.7.0.dist-info\*`
    * `c:\python311\lib\site-packages\dcspy\*`
    * `c:\python311\scripts\dcspy.exe`
-3. You can drag and drop `dcspy.exe` to desktop and make shortcut (with custom icon, you can find icon in installation directory i.e. `c:\python311\lib\site-packages\dcspy\resources\dcspy.ico`).
-4. Double-click on dcspy icon or type `dcspy.exe` from Command Prompt
+3. You can drag and drop `dcspy.exe` or `dcspy_cli.exe` to desktop and make shortcut (with custom icon, you can find icon in installation directory i.e. `c:\python311\lib\site-packages\dcspy\dcspy.ico`).
+   * `dcspy.exe` - with open directly GUI window
+   * `dcspy_cli.exe` - additionally start console window (with logs)
+4. Double-click on dcspy icon or type `dcspy.exe`\`dcspy_cli.exe` from Command Prompt
 5. Click `Start`
 6. LCD should update with dcspy basic info, waiting to connect to DCS 
-7. Run DCS and start any mission. **NOTE!**: DCS can already running, before starting LGS.
+7. Run DCS and start any mission. 
+**NOTE!**: DCS can already running, before starting LGS and or DCSpy.
 
 **Note:** If you upgrade DCSpy before version 1.7.0 `dcspy.ico` and `config.yaml` were in data directory like `c:\python311\dcspy_data\` but location is deperched in Python if you still have it, you can safely delete it
 
