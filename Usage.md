@@ -57,6 +57,8 @@ Description of all available options:
   *possible values*: any Git valid reference
 * **keyboard** - default Logitech keyboard value, last used value is saved automatically  
   *possible values*: `G19`, `G510`, `G15 v1`, `G15 v2`, `G13`
+* **save_lcd** - take every change of LCD as screenshot (for debuging)  
+  *possible values*: `true` or `false`
 * **show_gui** - it allows showing or hiding GUI during start of DCSpy. When set to `false` DCSpy start automatically.  
   *possible values*: `true` or `false`
 * **autostart** - when set to `true` DCSpy start automatically.  
@@ -65,7 +67,7 @@ Description of all available options:
   *possible values*: green, blue, dark-blue
 * **theme_mode** - Theme mode
   *possible values*: system, light, dark
-* **verbose** - Show more debug logs, be more verbose
+* **verbose** - Show more debug logs, be more verbose (for debugging)
   *possible values*: `true` or `false`
 * **f16_ded_font** - Special font for F-16's DED (G19 Color LCD only)
 * **font_name** - file name with TrueType font use in all devices
