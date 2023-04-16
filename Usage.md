@@ -51,9 +51,9 @@ Description of all available options:
 * **dcsbios** - location of DCS-BIOS folder inside user's `Saved Games\DCS.openbeta`.  
   Set this parameter to correct value allows user check and update DCS-BIOS to the latest release.  
   *example value*: `D:\Users\emcek\Saved Games\DCS.openbeta\Scripts\DCS-BIOS`
-* **git_bios** - If set to `True` Git/Live version of DCS-BIOS with be used
+* **git_bios** - If set to `True` Git/Live version of DCS-BIOS with be used  
   *possible values*: `true` or `false`
-* **git_bios_ref** - master
+* **git_bios_ref** - Git valid reference i.e. branch name, tag, SHA of commit etc.
   *possible values*: any Git valid reference
 * **keyboard** - default Logitech keyboard value, last used value is saved automatically  
   *possible values*: `G19`, `G510`, `G15 v1`, `G15 v2`, `G13`
