@@ -10,7 +10,8 @@
 4. Double-click on dcspy icon or type `dcspy.exe`\`dcspy_cli.exe` from Command Prompt
 5. Click `Start`
 6. LCD should update with dcspy basic info, waiting to connect to DCS 
-7. Run DCS and start any mission. 
+7. Run DCS and start any mission.
+
 **NOTE!**: DCS can already running, before starting LGS and or DCSpy.
 
 **Note:** If you upgrade DCSpy before version 1.7.0 `dcspy.ico` and `config.yaml` were in data directory like `c:\python311\dcspy_data\` but location is deperched in Python if you still have it, you can safely delete it
