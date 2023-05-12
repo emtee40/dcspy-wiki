@@ -40,7 +40,7 @@ Due to how Python application can be pack into executable file, Windows Defender
      * Customize install location: **C:\Python311** or **C:\Python**
 3. Logitech Gaming Software installation is straightforward.
 4. DCS-BIOS
-   * You can skip for now and install DCS-BIOS directly from Dcspy (Config -> Check DCS-BIOS). Check **dcsbios** config flag before, see [Configuration](#configuration).  
+   * You can skip for now and install DCS-BIOS directly from Dcspy (Config -> Check DCS-BIOS). Check **dcsbios** config flag before, see [Configuration](usage#configuration).  
      It checks if new version exists, download, and unpack DCS-BIOS to `Save Games` folder and check `Export.lua` file.
    * Or follow manual installation [DCS-BIOS wiki page](https://github.com/DCSFlightpanels/DCSFlightpanels/wiki/Installation)
 5. Package is available on [PyPI](https://pypi.org/project/dcspy/), open Windows Command Prompt (cmd.exe) and type:
