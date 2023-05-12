@@ -22,7 +22,7 @@ There are two ways of install DCSpy: single file download (basic / new way) or v
      It checks if new version exists, download, and unpack DCS-BIOS to `Save Games` folder and check `Export.lua` file.
    * Or follow manual installation [DCS-BIOS wiki page](https://github.com/DCSFlightpanels/DCSFlightpanels/wiki/Installation)
 
-Due to how Python application can be pack into executable file, Windows Defender can recognize it as a virus. See more details [here](information#windows -defender)
+Due to how Python application can be pack into executable file, Windows Defender can recognize it as a virus. See more details [here](Information#windows-defender)
 
 ## via pip (old way)
 * Advantage: Better control, simple update process, no Defender hassle
