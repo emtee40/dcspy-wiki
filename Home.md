@@ -1,5 +1,4 @@
 ### Installation
-  * [Requirements](installation#requirements)
   * [Installation](installation#installation) steps
 ### Upgrade
   * how to [upgrade](Upgrade#upgrade) DCSpy and DCS-BIOS
