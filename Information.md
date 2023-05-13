@@ -1,5 +1,7 @@
 # Live DCS-BIOS
-When enable DCSpy will use live/git version of DCS-BIOS. You can compere it to DCS OpenBeta. 
+When enable DCSpy will use live/git version of DCS-BIOS. It is like DCS OpenBeta vs. Stable.
+
+When you switch to live version for first time be patient DCSpy will download repository (ca. 150 MB it can take a few seconds), freeze can be expected.
 
 This is recommended way by DCS-BIOS developers. 
 
