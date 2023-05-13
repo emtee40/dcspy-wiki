@@ -16,6 +16,7 @@
 ### Information
   * [FAQ](Information#faq)
   * [Live DCS-BIOS](Information#live-dcs-bios)
+  * [Windows Defender](Information#windows-defender)
   * [Contact](Information#new-ideas)
   * [Contributing](Information#contributing)
 ### Issue
