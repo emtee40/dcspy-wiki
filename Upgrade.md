@@ -14,7 +14,7 @@ pip install -U dcspy
 ```shell script
 pip uninstall dcspy
 ```
-2. Follow installation procedure 
+2. Follow installation procedure [Installation#single-file-download-new-way]
 
 # DCS-BIOS
 If you have enable `Advanced / Auto Update DCS-BIOS version` you do not need any manual steps. Every time you start DCSpy, DCS-BIOS will be checked and updated for you.
