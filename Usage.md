@@ -39,7 +39,7 @@ Maybe in future when settings via config file will be added, then it allowed usa
 actions for supported airplanes are hardcoded right now.
 
 ## Configuration
-All settings can be configured directly via GUI. However,  more advanced users can change configuration file `config.yaml` file. It is located in Python's installation directory (e.g. `c:\python311\lib\site-packages\dcspy\resources\config.yaml`). 
+All settings can be configured directly via GUI. However,  more advanced users can change configuration file `config.yaml` file. It is located in user's AppData directory (e.g. `C:\Users\<user_name>\AppData\Local\dcspy\config.yaml`). 
 This is simple file, most users do not need to touch it at all. Configuring DCSpy enable some powerful features of DCSpy.
 
 Description of all available options:  
