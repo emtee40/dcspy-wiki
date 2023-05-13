@@ -1,10 +1,11 @@
 ### Installation
-  * [Installation](installation#installation) steps
+  * [Installation](Installation#installation) steps
 ### Upgrade
   * how to [upgrade](Upgrade#upgrade) DCSpy and DCS-BIOS
 ### Usage
   * [Starting](Usage#Starting)
-  * [Configuration](usage#configuration)
+  * [Configuration](Usage#configuration)
+  * [Mono vs. Color](Usage#mono-vs-color)
 ### Planes and Helicopters
   * [AH-64D Apache](Planes-and-Helicopters#ah-64d-apache)
   * [F/A-18C Hornet](Planes-and-Helicopters#fa-18c-hornet)
