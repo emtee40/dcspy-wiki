@@ -15,6 +15,7 @@
   * [AV-8B N/A Harrier](Planes-and-Helicopters#av-8b-na-harrier)
 ### Information
   * [FAQ](Information#faq)
+  * [Live DCS-BIOS](Information#live-dcs-bios)
   * [Contact](Information#new-ideas)
   * [Contributing](Information#contributing)
 ### Issue
