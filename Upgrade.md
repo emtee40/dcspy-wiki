@@ -9,6 +9,13 @@ pip install -U dcspy
 ```
 **Note:** If you upgrade DCSpy from 1.5.1 or older you can remove Logitech LCD SDK from `C:\Program Files\Logitech Gaming Software\LCDSDK_8.57.148`
 
+## Switch from old way to new way
+1. Remove dcspy, open Command Prompt and type:
+```shell script
+pip uninstall dcspy
+```
+2. Follow installation procedure 
+
 # DCS-BIOS
 If you have enable `Advanced / Auto Update DCS-BIOS version` you do not need any manual steps. Every time you start DCSpy, DCS-BIOS will be checked and updated for you.
 
