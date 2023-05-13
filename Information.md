@@ -4,8 +4,10 @@
 During download you can got into situation that Windows Defender will block it:  
 ![image](https://github.com/emcek/dcspy/assets/475312/d6a5dfa1-7494-46dd-a568-925076f44831)
 
-It this case you need open, follow instaractions:  
-1. Open Windows Security page:  
+It this case you need open, follow instructions:  
+1. Open Windows Security  
+![image](https://github.com/emcek/dcspy/assets/475312/8cf72801-d841-444c-87d5-37c7deb1413a)
+
 ![image](https://github.com/emcek/dcspy/assets/475312/60ce7c72-2b13-469e-8270-70dac03b8c28)
 
 2. Open dropdown for latest issue  
@@ -14,9 +16,9 @@ It this case you need open, follow instaractions:
 3. Verify affected item name and select `Allow` from `Actions`  
 ![image](https://github.com/emcek/dcspy/assets/475312/41a750ce-ef76-463c-a733-9715e3c125f5)  
 
-4. Try download file again.
+4. Now download file should be possible, try again.
 
-5. Additionally you can try verify downloaded executable if is really DCSpy original file (not 100% perfect)
+5. Additionally, you can try verify downloaded executable if is really DCSpy original file (not 100% foolproof)
 
 6. Right click at downloaded file, open properties  
 ![image](https://github.com/emcek/dcspy/assets/475312/f63b4a9b-9c64-4099-b6dd-0ffd02f7f4a4)
@@ -24,8 +26,7 @@ It this case you need open, follow instaractions:
 7. Go to [Actions](https://github.com/emcek/dcspy/actions)    
 ![image](https://github.com/emcek/dcspy/assets/475312/a0d88222-618a-4bd5-b130-2f8c1e644ac5)
 
-8. Verify numbers form point 6 and 7 should match (here #101 - build number and 5295cca commit ID)
-
+8. Verify numbers form point 6 and 7 should match (here `#101` - build number and `5295cca` commit ID)
 
 ## FAQ
 1. Why in [F-16C DED](https://i.imgur.com/Hr0kmFV.jpg) instead of triangle up and down arrow I see strange character.   
