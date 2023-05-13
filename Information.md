@@ -41,7 +41,7 @@ During download you can got into situation that Windows Defender will block it:
 
 ![image](https://github.com/emcek/dcspy/assets/475312/d6a5dfa1-7494-46dd-a568-925076f44831)
 
-## It this case you need open, follow instructions
+**It this case you need open, follow instructions**
 1. Open Windows Security
 
 ![image](https://github.com/emcek/dcspy/assets/475312/8cf72801-d841-444c-87d5-37c7deb1413a)
