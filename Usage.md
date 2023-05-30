@@ -24,6 +24,10 @@
 **Note:** DCS can already running, before starting LGS and or DCSpy.
 
 **Note:** If you upgrade DCSpy before version 1.7.0 `dcspy.ico` and `config.yaml` were in data directory like `c:\python311\dcspy_data\` but location is deperched in Python if you still have it, you can safely delete it
+# System tray icon
+Since version DCSpy 2.1 you can minimalize it to system tray, using `X` (close) in main window
+
+![image](https://github.com/emcek/dcspy/assets/475312/f90317ac-38a6-475b-a47c-325787b25b7d)
 
 # Mono vs. Color
 DCSpy do not use full potential of G19, which support full RGBA, 8-lines LCD with 7 programmable buttons.  
