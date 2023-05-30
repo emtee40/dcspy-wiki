@@ -11,10 +11,9 @@ There are two ways of install DCSpy: single file download (basic / new way) or v
 1. Install [Logitech Gaming Software 9.04.49](https://support.logitech.com/software/lgs)
 2. Go to [Releases](https://github.com/emcek/dcspy/releases), from Assets section download one of:
    * `dcspy_*.exe` - simple one window application
-   * `dcspy_cli_*.exe` - during start you will see additional console window with logs and more details
 3. Place file anywhere in your system, double click to start.
 4. DCS-BIOS
-   * Install DCS-BIOS directly from Dcspy (button Check DCS-BIOS). Check **dcsbios** config parameter before, see [Configuration](usage#configuration).  
+   * Install DCS-BIOS directly from DCSpy (button Check DCS-BIOS). Check **dcsbios** config parameter before, see [Configuration](usage#configuration).  
      It checks if new version exists, download, and unpack DCS-BIOS to `Save Games` folder and check `Export.lua` file.
    * Or follow manual installation [DCS-BIOS wiki page](https://github.com/DCSFlightpanels/DCSFlightpanels/wiki/Installation)
 
@@ -36,7 +35,7 @@ Due to how Python application can be pack into executable file (using PyInstalle
      * Add Python to environment variables
      * Customize install location: **C:\Python311** or **C:\Python**
 4. DCS-BIOS
-   * You can skip for now and install DCS-BIOS directly from Dcspy (button Check DCS-BIOS). Check **dcsbios** parameter before, see [Configuration](usage#configuration).  
+   * You can skip for now and install DCS-BIOS directly from DCSpy (button Check DCS-BIOS). Check **dcsbios** parameter before, see [Configuration](usage#configuration).  
      It checks if new version exists, download, and unpack DCS-BIOS to `Save Games` folder and check `Export.lua` file.
    * Or follow manual installation [DCS-BIOS wiki page](https://github.com/DCSFlightpanels/DCSFlightpanels/wiki/Installation)
 6. Package is available on [PyPI](https://pypi.org/project/dcspy/), open Windows Command Prompt (cmd.exe) and type:
