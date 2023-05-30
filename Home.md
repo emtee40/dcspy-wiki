@@ -4,6 +4,7 @@
   * how to [upgrade](Upgrade#upgrade) DCSpy and DCS-BIOS
 ### Usage
   * [Starting](Usage#Starting)
+  * [System tray](Usage#system-tray-icon)
   * [Configuration](Usage#configuration)
   * [Mono vs. Color](Usage#mono-vs-color)
 ### Planes and Helicopters
