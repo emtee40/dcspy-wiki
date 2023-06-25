@@ -10,7 +10,7 @@ Apache EUFD is to big to fit small, so is spited into 3 Modes.
 ### PRE Mode
 ![image](https://user-images.githubusercontent.com/475312/174403195-22e5e4c3-ef0b-4046-93e2-0b494d9b1e5f.png)  
 ![AH64DBLKII_75](https://user-images.githubusercontent.com/475312/174403242-5da96391-e8ca-4b35-821d-0952655b7aef.png)  
-* To enter this mode press **P** Preset - **Buton3**
+* To enter this mode press **P** Preset - **Buton3** / **Down**
 * In this mode you can see the preset menu for the selected radio
 * **Button1** / **Left** is used to scroll down
 * **Button2** / **Right** select radio for RTS
