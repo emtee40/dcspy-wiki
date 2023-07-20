@@ -77,7 +77,6 @@ Note: Push **Menu** and **Cancel** toggle cockpit button down, push it again tog
 ![Mi-24_3](https://user-images.githubusercontent.com/475312/215358872-17082a89-156d-4281-8ad0-9571fe0f9f60.png)  
 ![Mi24P_21](https://user-images.githubusercontent.com/475312/215358829-2c3713a5-ecd3-4cae-a59c-c9fdc89c1863.png)
 
-
 ## F-16C Viper
 * Button1 - IFF MASTER Knob - cycle thru OFF/STBY/LOW/NORM/EMER
 * Button2 - IFF ENABLE Switch - cycle thru M1/M3 /OFF/ M3/MS
@@ -89,6 +88,23 @@ Note: Push **Menu** and **Cancel** toggle cockpit button down, push it again tog
 * Button2 - RIO CAP SW
 * Button3 - RIO CAP NE
 * Button4 - RIO CAP Enter
+
+## F-15ESE Eagle
+![ufc](https://github.com/emcek/dcspy/assets/475312/05b952d8-25c1-4c5d-a619-abed03de21fd)
+
+### Mono
+* **Button1** - UFC COMM1 channel select decrease
+* **Button2** - UFC COMM1 channel select increase
+* **Button3** - UFC COMM2 channel select decrease
+* **Button4** - UFC COMM2 channel select increase  
+![F15ESE_33](https://github.com/emcek/dcspy/assets/475312/4318a6a5-2657-493a-b4f4-287bc72359dc)
+
+### Color
+* **Left** - UFC COMM1 channel select decrease
+* **Right** - UFC COMM1 channel select increase
+* **Down**- UFC COMM2 channel select decrease
+* **Up** - UFC COMM2 channel select increase  
+![F15ESE_15](https://github.com/emcek/dcspy/assets/475312/d486be80-77b1-4863-b47d-56278b2f9401)
 
 ## AV-8B N/A Harrier
 * Button1 - UFC COMM1 channel select decrease
