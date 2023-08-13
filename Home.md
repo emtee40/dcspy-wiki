@@ -7,6 +7,7 @@
   * [System tray](Usage#system-tray-icon)
   * [Configuration](Usage#configuration)
   * [Mono vs. Color](Usage#mono-vs-color)
+  * [Troubleshooting](Usage#troubleshooting)
 ### Planes and Helicopters
   * [AH-64D Apache](Planes-and-Helicopters#ah-64d-apache)
   * [F/A-18C Hornet](Planes-and-Helicopters#fa-18c-hornet)
