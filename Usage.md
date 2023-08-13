@@ -116,10 +116,12 @@ This is simple file, most users do not need to touch it at all. Configuring DCSp
 
 
 ## Troubleshooting
-If you encounter any problem during DCSpy usage, please enable these options:
+If you encounter any problem during DCSpy usage, follow these steps:
+* enable **Save LCD screenshot**
+* enable **Show more logs**
+* restart DCSpy
+* try reproduce problem 
+* Immediately click **Stop** button
+* click **Collect data** button
 
-![image](https://github.com/emcek/dcspy/assets/475312/f7513b0d-f4b5-4a58-a37b-10d9a6f384e6)
-
-Restart DCSpy, try reproduce problem and collect data:
-
-![image](https://github.com/emcek/dcspy/assets/475312/473e4135-59ef-41f1-a895-91284fc6c5b0)
+![image](https://github.com/emcek/dcspy/assets/475312/5543faac-41af-4839-915e-9cf05d9a8584)
