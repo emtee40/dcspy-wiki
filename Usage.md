@@ -113,3 +113,13 @@ This is simple file, most users do not need to touch it at all. Configuring DCSp
   *possible values*: `true` or `false`
 * **git_bios_ref** - Git valid reference i.e. branch name, tag, SHA of commit etc.
   *possible values*: any Git valid reference
+
+
+## Troubleshooting
+If you encounter any problem during DCSpy usage, please enable these options:
+
+![image](https://github.com/emcek/dcspy/assets/475312/f7513b0d-f4b5-4a58-a37b-10d9a6f384e6)
+
+Restart DCSpy, try reproduce problem and collect data:
+
+![image](https://github.com/emcek/dcspy/assets/475312/473e4135-59ef-41f1-a895-91284fc6c5b0)
