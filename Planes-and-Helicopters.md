@@ -111,3 +111,13 @@ Note: Push **Menu** and **Cancel** toggle cockpit button down, push it again tog
 * Button2 - UFC COMM1 channel select increase
 * Button3 - UFC COMM2 channel select decrease
 * Button4 - UFC COMM2 channel select increase
+
+
+## A-10C Warthog
+![a10c](https://github.com/emcek/dcspy/assets/475312/a4d3c563-18e8-469e-808b-6504be7ceaec)  
+![A10C_32](https://github.com/emcek/dcspy/assets/475312/245c3bf8-ba75-483e-9d16-a7dfb7d1cd4b)
+
+## A-10C II Tank Killer support
+![a10c2](https://github.com/emcek/dcspy/assets/475312/b80f59e1-0d4d-4f00-a762-da4cfd87e10b)  
+![A10C2_92](https://github.com/emcek/dcspy/assets/475312/ff47d6af-d0a3-440a-9835-552011db3b4f)
+
