@@ -16,6 +16,8 @@
   * [F-16C Viper](Planes-and-Helicopters#f-16c-viper)
   * [F-14A and B Tomcat](Planes-and-Helicopters#f-14a-and-b-tomcat)
   * [AV-8B N/A Harrier](Planes-and-Helicopters#av-8b-na-harrier)
+  * [A-10C Warthog](Planes-and-Helicopters#a-10c-warthog)
+  * [A-10C II Tank Killer](Planes-and-Helicopters#a-10c-ii-tank-killer)
 ### Information
   * [FAQ](Information#faq)
   * [Live DCS-BIOS](Information#live-dcs-bios)
