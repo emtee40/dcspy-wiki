@@ -24,16 +24,15 @@ Due to how Python application can be pack into executable file (using PyInstalle
 * Disadvantage: Python interpreter is needed, more steps, more complicated process
 
 1. Install [Logitech Gaming Software 9.04.49](https://support.logitech.com/software/lgs)
-2. Download [Python 3.11](https://www.python.org/downloads/) but 3.7+ (with tcl/tk support, see installation) should be fine, please choose **Windows x86-64** version, file should be `python-3.11.3-amd64.exe`.  
+2. Download [Python 3.12](https://www.python.org/downloads/) but 3.8+ should be fine, please choose **Windows x86-64** version, file should be `python-3.12.0-amd64.exe`.  
 3. During Python installation please select  
    * Optional Features:
      * pip
-     * tcl/tk and IDLE
      * py launcher  
    * Advanced Options:
      * Associate files with Python (requires the py launcher)
      * Add Python to environment variables
-     * Customize install location: **C:\Python311** or **C:\Python**
+     * Customize install location: **C:\Python312** or **C:\Python**
 4. DCS-BIOS
    * You can skip for now and install DCS-BIOS directly from DCSpy (button Check DCS-BIOS). Check **dcsbios** parameter before, see [Configuration](usage#configuration).  
      It checks if new version exists, download, and unpack DCS-BIOS to `Save Games` folder and check `Export.lua` file.
@@ -44,7 +43,7 @@ pip install dcspy
 ```
 or download manually wheel file from [releases](https://github.com/emcek/dcspy/releases/latest):
 ```shell script
-pip install dcspy-2.0.0-py3-none-any.whl
+pip install dcspy-3.0.0-py3-none-any.whl
 ```
 **Note:** If you got `pip is not recognized as an internal or external command, operable program or batch file.` error, see [FAQ](Information#faq)
 
