@@ -109,14 +109,5 @@ This is simple file, most users do not need to touch it at all. Configuring DCSp
 * **verbose** - Show more debug logs, be more verbose (for debugging)
   *possible values*: `true` or `false`
 
-### Troubleshooting
-If you encounter any problem during DCSpy usage, follow these steps:
-* enable **Save LCD screenshot**
-* enable **Show more logs**
-* restart DCSpy
-* try reproduce problem 
-* Immediately click **Stop** button
-* click **Collect data** button
-
 ## G-Keys
 * TBD
