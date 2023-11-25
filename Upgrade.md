@@ -17,23 +17,15 @@ pip uninstall -y dcspy
 2. Follow installation [procedure](Installation#single-file-download-new-way).
 
 # DCS-BIOS
-If you have enable `Advanced / Auto Update DCS-BIOS version` you do not need any manual steps. Every time you start DCSpy, DCS-BIOS will be checked and updated for you.
+If you have enable `Auto check DCS-BIOS` you do not need any manual steps. Every time you start DCSpy, DCS-BIOS will be checked and updated for you.
 
 ## Manual procedure
-1. Stop DCS World
-2. Make sure setting **General** / **DCS-BIOS folder** is correct
+1. Stop DCS World or at least exit mission.
+2. Make sure setting **DCS-BIOS folder** is correct
+3. Click **Check for updates** button in DCS-BIOS group, Note, new version in footer.
+5. Click OK.  
+![image](https://github.com/emcek/dcspy/assets/475312/187f9d91-5464-4560-9308-405e37816562)
 
-![bios_0](https://user-images.githubusercontent.com/475312/209840336-f0ce47b8-c7c1-4a48-af1c-c5c1cc79ffdd.jpg)
 
-3. Click **Check DCS-BIOS** button, if new version is available click **OK**. Note, version in footer.
 
-![image](https://user-images.githubusercontent.com/475312/209840516-3873d7a9-8bb2-4226-944f-5472eebd9440.png)
-
-4. If you are running latest version you can still reinstall the same version again.
-
-![image](https://user-images.githubusercontent.com/475312/209841006-d6cd0581-aad2-4d53-83a3-1957e0f8a674.png)
-
-5. Done.
-
-![image](https://user-images.githubusercontent.com/475312/209841045-f3d64fe7-acb8-4fdc-a2d3-1ae494b24394.png)
 
