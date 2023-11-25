@@ -15,7 +15,7 @@ Example:
 
 ![image](https://github.com/emcek/dcspy/assets/475312/7d1da9db-a123-456f-bf7a-78d70344ba8c)
 
-![image](https://github.com/emcek/dcspy/assets/475312/f02d9027-abb5-4f54-924d-22d21730f811)
+![image](https://github.com/emcek/dcspy/assets/475312/5e088539-a086-4375-8e1e-161287a04f18)
 
 # FAQ
 1. Why in [F-16C DED](https://i.imgur.com/Hr0kmFV.jpg) instead of triangle up and down arrow I see strange character.   
