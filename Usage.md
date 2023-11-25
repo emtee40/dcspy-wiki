@@ -70,10 +70,10 @@ This is simple file, most users do not need to touch it at all. Configuring DCSp
   *possible values*: `G19`, `G510`, `G15 v1`, `G15 v2`, `G13`
 * Select correct keyboard since all of then support different combination of: LCD, LCD buttons and G-Keys
 
-## General
+## Settings
 ![image](https://github.com/emcek/dcspy/assets/475312/70b9101e-e09e-492f-8baa-92bf2be812a7)
 
-## DCSpy
+### DCSpy
 * **autostart** - when set to `true` DCSpy start automatically.  
   *possible values*: `true` or `false`
 * **show_gui** - it allows showing or hiding GUI during start of DCSpy. When set to `false` DCSpy start automatically.  
@@ -82,7 +82,7 @@ This is simple file, most users do not need to touch it at all. Configuring DCSp
   *possible values*: `true` or `false`
 * **dcs** - installation directory of DCS. By default it is set to `C:\Program Files\Eagle Dynamics\DCS World OpenBeta`
 
-## DCS-BIOS
+### DCS-BIOS
 * **check_bios** - check for new version of DCS-BIOS during start of DCSpy.  
   *possible values*: `true` or `false`
 * **git_bios** - If set to `True` Git/Live version of DCS-BIOS with be used  
@@ -93,7 +93,7 @@ This is simple file, most users do not need to touch it at all. Configuring DCSp
   Set this parameter to correct value allows user check and update DCS-BIOS to the latest release.  
   *example value*: `D:\Users\wags\Saved Games\DCS.openbeta\Scripts\DCS-BIOS`
 
-## Fonts
+### Fonts
 * **font_mono_xs** - size of extra small font for mono devices
 * **font_mono_s** - size of small font for mono devices
 * **font_mono_l** - size of large font for mono devices
@@ -103,13 +103,13 @@ This is simple file, most users do not need to touch it at all. Configuring DCSp
 * **font_name** - file name with TrueType font use in all devices
 * **f16_ded_font** - Special font for F-16's DED (G19 Color LCD only)
 
-## Debug
+### Debug
 * **save_lcd** - take every change of LCD as screenshot (for debugging)  
   *possible values*: `true` or `false`
 * **verbose** - Show more debug logs, be more verbose (for debugging)
   *possible values*: `true` or `false`
 
-## Troubleshooting
+### Troubleshooting
 If you encounter any problem during DCSpy usage, follow these steps:
 * enable **Save LCD screenshot**
 * enable **Show more logs**
@@ -118,3 +118,5 @@ If you encounter any problem during DCSpy usage, follow these steps:
 * Immediately click **Stop** button
 * click **Collect data** button
 
+## G-Keys
+* TBD
