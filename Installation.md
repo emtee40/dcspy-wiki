@@ -13,7 +13,7 @@ There are two ways of install DCSpy: single file download (basic / new way) or v
    * `dcspy_*.exe` - simple one window application
 3. Place file anywhere in your system, double click to start.
 4. DCS-BIOS
-   * Install DCS-BIOS directly from DCSpy (button Check DCS-BIOS). Check **dcsbios** config parameter before, see [Configuration](usage#configuration).  
+   * Install DCS-BIOS directly from DCSpy (button Check DCS-BIOS, see [Configuration](usage#configuration)).  
      It checks if new version exists, download, and unpack DCS-BIOS to `Save Games` folder and check `Export.lua` file.
    * Or follow manual installation [DCS-BIOS wiki page](https://github.com/DCSFlightpanels/DCSFlightpanels/wiki/Installation)
 
@@ -34,7 +34,7 @@ Due to how Python application can be pack into executable file (using PyInstalle
      * Add Python to environment variables
      * Customize install location: **C:\Python312** or **C:\Python**
 4. DCS-BIOS
-   * You can skip for now and install DCS-BIOS directly from DCSpy (button Check DCS-BIOS).    
+   * You can skip for now and install DCS-BIOS directly from DCSpy (button Check DCS-BIOS, see [Configuration](usage#configuration)).  
      It checks if new version exists, download, and unpack DCS-BIOS to `Save Games` folder and check `Export.lua` file.
    * Or follow manual installation [DCS-BIOS wiki page](https://github.com/DCSFlightpanels/DCSFlightpanels/wiki/Installation)
 6. Package is available on [PyPI](https://pypi.org/project/dcspy/), open Windows Command Prompt (cmd.exe) and type:
