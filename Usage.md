@@ -59,6 +59,21 @@ From DCSpy 3.0 it is possible to use all keyboard's G-Keys:
 
 You can assign almost any input controller from cockpit for aircraft supported by DCS-BIOS. Note: DCS-BIOS has to provide input protocol.
 
+### How to setup:
+* Install Git: https://git-scm.com/download/win (any 64-Bit, default options should be fine)
+* Set **DCS-BIOS** folder  
+  ie. (D:/Users/wags/Saved Games/DCS.openbeta/Scripts/DCS-BIOS)
+* Set checked **Use live DCS-BIOS version** (can take 20+ sec)
+* Click **Start** and then **Stop** (in rare cases is needed)
+* Open LGS, new profile should be added (current dcspy file name: ie. dcspy_cli_3.0.0)
+![image](https://github.com/emcek/dcspy/assets/475312/3145510c-ad8b-4fca-8fe6-596129d9a755)
+* Set this profile default and optionally persistent. Close LGS.
+![image](https://github.com/emcek/dcspy/assets/475312/c56f61fb-bafb-4fd2-a2a9-549b5b1be990)
+* Go to **G-Keys** tab, additionally turn on **View** / **Show G-Keys** extra dialog
+* Select plane from combo box up right corner 
+* assign any controllers to G-Key/Modes
+* Use save icon to save plane configuration
+
 # Configuration
 All settings can be configured directly via GUI. However,  more advanced users can change configuration file `config.yaml` file. It is located in user's AppData directory (e.g. `C:\Users\<user_name>\AppData\Local\dcspy\config.yaml`). 
 This is simple file, most users do not need to touch it at all. Configuring DCSpy enable some powerful features of DCSpy.
