@@ -64,9 +64,9 @@ During download you can got into situation that Windows Defender will block it:
 
 4. You can try restore quarantined file
 
-![image](https://github.com/emcek/dcspy/assets/475312/972a4c2a-abcd-44ac-837a-f458795d41aa)
+![image](https://github.com/emcek/dcspy/assets/475312/7f2fb6bb-9be2-4af1-a073-8882ebd681c1)
 
-5. Or re-downloading file should be possible, try again.
+5. or try downloading file again.
 
 6. Additionally, you can try verify downloaded executable if is really DCSpy original file (not 100% foolproof)
 
