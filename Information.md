@@ -62,19 +62,23 @@ During download you can got into situation that Windows Defender will block it:
 
 ![image](https://github.com/emcek/dcspy/assets/475312/41a750ce-ef76-463c-a733-9715e3c125f5)  
 
-4. Now download file should be possible, try again.
+4. You can try restore quarantined file
 
-5. Additionally, you can try verify downloaded executable if is really DCSpy original file (not 100% foolproof)
+![image](https://github.com/emcek/dcspy/assets/475312/972a4c2a-abcd-44ac-837a-f458795d41aa)
 
-6. Right click at downloaded file, open properties
+5. Or re-downloading file should be possible, try again.
+
+6. Additionally, you can try verify downloaded executable if is really DCSpy original file (not 100% foolproof)
+
+7. Right click at downloaded file, open properties
 
 ![image](https://github.com/emcek/dcspy/assets/475312/f63b4a9b-9c64-4099-b6dd-0ffd02f7f4a4)
 
-7. Go to [Actions](https://github.com/emcek/dcspy/actions)
+8. Go to [Actions](https://github.com/emcek/dcspy/actions)
 
 ![image](https://github.com/emcek/dcspy/assets/475312/a0d88222-618a-4bd5-b130-2f8c1e644ac5)
 
-8. Verify numbers form point 6 and 7 should match (here `#101` - build number and `5295cca` commit ID)
+9. Verify numbers form point 6 and 7 should match (here `#101` - build number and `5295cca` commit ID)
 
 # New ideas
 I have lots of plans and new ideas how to improve it internally and form user's perspective, but don't hesitate to contact me. Maybe it will motivate me to implement some new stuff. Please open issue if you find bug or have any crazy idea.  
