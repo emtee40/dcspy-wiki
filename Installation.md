@@ -13,7 +13,7 @@ There are two ways of install DCSpy: single file download (basic / new way) or v
    * `dcspy_*.exe` - simple one window application
 3. Place file anywhere in your system, double click to start.
 4. DCS-BIOS
-   * Install DCS-BIOS directly from DCSpy (button Check DCS-BIOS, see [Configuration](usage#configuration)).  
+   * Install DCS-BIOS directly from DCSpy (button **Check DCS-BIOS**, see [DCS-BIOS Upgrade](upgrade#manual-procedure)).  
      It checks if new version exists, download, and unpack DCS-BIOS to `Save Games` folder and check `Export.lua` file.
    * Or follow manual installation [DCS-BIOS wiki page](https://github.com/DCSFlightpanels/DCSFlightpanels/wiki/Installation)
 
