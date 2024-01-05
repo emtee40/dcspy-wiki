@@ -123,6 +123,3 @@ This is simple file, most users do not need to touch it at all. Configuring DCSp
   *possible values*: `true` or `false`
 * **verbose** - Show more debug logs, be more verbose (for debugging)
   *possible values*: `true` or `false`
-
-## G-Keys
-* TBD
