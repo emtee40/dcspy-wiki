@@ -24,7 +24,7 @@ Due to how Python application can be pack into executable file (using PyInstalle
 * Disadvantage: Python interpreter is needed, more steps, more complicated process
 
 1. Install [Logitech Gaming Software 9.04.49](https://support.logitech.com/software/lgs)
-2. Download [Python 3.12](https://www.python.org/downloads/) but 3.8+ should be fine, please choose **Windows x86-64** version, file should be `python-3.12.0-amd64.exe`.  
+2. Download [Python 3.12](https://www.python.org/downloads/) but 3.9+ should be fine, please choose **Windows x86-64** version, file should be `python-3.12.0-amd64.exe`.  
 3. During Python installation please select  
    * Optional Features:
      * pip
