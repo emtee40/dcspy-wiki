@@ -1,0 +1,11 @@
+## Keyboards with LCD
+* G19 G510 G15v1 G15v2 G13
+
+## Keyboards without LCD
+* G910 G710 G110 G103 G105
+
+## Headphones
+* G11 G35 G633 G930 G933
+
+## Mice
+* G600 G300 G400 G700 G9 MX518 G402 G502 G602
