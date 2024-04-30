@@ -7,6 +7,7 @@
   * [System tray](Usage#system-tray-icon)
   * [Configuration](Usage#configuration)
   * [Mono vs. Color](Usage#mono-vs-color)
+  * [Supported devices](Supported-devices)
   * [Troubleshooting](Report-issue#troubleshooting)
 ### Planes and Helicopters
   * [AH-64D Apache](Planes-and-Helicopters#ah-64d-apache)
